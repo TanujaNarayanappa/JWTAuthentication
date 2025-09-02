@@ -1,0 +1,6 @@
+@JWTAuthentication_HostAddress = http://localhost:5066
+
+GET {{JWTAuthentication_HostAddress}}/Register/
+Accept: application/json
+
+###
